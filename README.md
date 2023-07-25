@@ -33,6 +33,19 @@ Students can effortlessly return borrowed books, updating their account status a
 Overdue book notifications to students, prompting timely returns.
 ![image](https://github.com/ritujayadav/Java-Library-Management-System/assets/110754843/a9a9ad47-3f3c-4f94-a51a-a5c42237f3f0)
 
+#Getting Started:
+
+To use the Library Management System (LMS), follow these steps:
+1. Clone the repository to your local machine using Git or download the ZIP file.
+2. Set up the necessary database and configure the connection details in the application.
+3. Build and deploy the application using your preferred IDE or build tools.
+4. Access the application through the provided URL or locally hosted server.
+
+#Technologies Used
+1. Java for the backend logic.
+2. Java Swing for the user interface.
+3. MySQL for the database management.
+
 
 
 
