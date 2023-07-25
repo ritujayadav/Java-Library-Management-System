@@ -19,7 +19,7 @@ This system provides essential functionalities such as student login, book issua
 
 Library staff can add new students to the system by providing essential student details.
 Newly registered students receive login credentials to access the LMS.
-![image](https://github.com/ritujayadav/Java-Library-Management-System/assets/110754843/0772e915-f6f8-409d-881a-89b3bf1d9012)v
+![image](https://github.com/ritujayadav/Java-Library-Management-System/assets/110754843/0772e915-f6f8-409d-881a-89b3bf1d9012)
 
 #Book Issuance:
 
